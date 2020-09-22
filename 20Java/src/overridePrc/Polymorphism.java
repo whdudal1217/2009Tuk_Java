@@ -19,7 +19,6 @@ public class Polymorphism {
 		disp(minus);
 		disp(bonus);
 	}
-
 	public static void disp(Account acc) { //ac1의 주소가 전달되고 이 메소드 종료시 메모리 해제하고 ac2를 메모리에 올림
 		System.out.println("-*-*-*-*-*-*- 계좌정보 -*-*-*-*-*-");
 		System.out.println("계좌번호  : " + acc.accountNo);
