@@ -49,7 +49,7 @@ public class ArrayList_1 {
 		List<String> arrL = new ArrayList<String>();
 		arrL.add("Test");
 		System.out.println(arrL.get(0));
-
+		
 	}
 
 }
